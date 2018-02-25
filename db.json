@@ -1,0 +1,14 @@
+{
+    "users" : [
+        { "id": "47", "firstName": "Alex", "age": "33", "companyId": "1" },
+        { "id": "42", "firstName": "Bob", "age": "52", "companyId": "2" },
+        { "id": "23", "firstName": "Jai", "age": "28", "companyId": "1" }
+    ],
+
+    "companies" : [
+        {"id" : "1", "name": "Tesla", "description": "Energy" },
+        {"id" : "2", "name": "Facebook", "description": "Software" }
+    ]
+
+
+}
